@@ -1,9 +1,9 @@
 # Build-a-Website-with-HTML-CSS-and-GitHub-Pages
 Build a Website with HTML CSS and GitHub Pages
 
-One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there. Learn important HTML and CSS fundamentals and practice your new skills with real-world projects.
+*One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there. Learn important HTML and CSS fundamentals and practice your new skills with real-world projects.*
 
-1. Beginner HTML
+ 1. Beginner HTML
     - Welcome to Learn How to Build Websites
     - Elements and Structure
       - Intro to HTML
@@ -12,10 +12,10 @@ One of the best ways to start coding is by building websites. Whether you want t
   - Tables
       - HTML Tables
       - **Project 1: Wine Festival Schedule**
-2. Beginner CSS
+ 2. Beginner CSS
   - Visual Rules
   - **Project 2: Olivia Woodruff Portfolio**
-3. How to Build Websites on Your Own Computer
+ 3. How to Build Websites on Your Own Computer
       - Intro to Local Website Development
       - Getting Started with Visual Studio Code and Building HTML Websites
       - Create Your First Local HTML/CSS Project
